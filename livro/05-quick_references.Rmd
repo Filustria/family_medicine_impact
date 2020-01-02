@@ -55,7 +55,10 @@
 
 - [Internações por condições sensíveis à atenção primária à saúde, 2008-2015: uma análise do impacto da expansão da ESF na cidade do Rio de Janeiro](http://www.scielo.br/scielo.php?script=sci_arttext&pid=S1414-462X2018000200178&lng=pt&nrm=iso&tlng=pt){target="_blank"}       
 Identificou-se tendência ao aumento da cobertura da ESF e à redução dos indicadores de ICSAP, bem como correlação inversa entre a cobertura pela ESF e a proporção de ICSAP (r = -0,888, p = 0,020), e entre a cobertura pela ESF e a taxa de ICSAP (r = -0,753, p = 0,031). Observou-se associação significativa para as razões de taxa dos indicadores de cobertura a partir de 2011 e de taxas de internação a partir de 2013.   
-Cad. saúde colet. vol.26 no.2 Rio de Janeiro abr./jun. 2018 http://dx.doi.org/10.1590/1414-462x201800020230     
+Cad. saúde colet. vol.26 no.2 Rio de Janeiro abr./jun. 2018 http://dx.doi.org/10.1590/1414-462x201800020230    
+
+
+- ACSC hospitalization, while being a negative index of primary care access, can also be a measure indicating the impact of the hospital bed supply, and it is still a valid measure of the disparity of health care, the original motivation for this topic. [Hospitalizations for ambulatory care sensitive conditions as an indicator of access to primary care and excess of bed supply](https://bmchealthservres.biomedcentral.com/articles/10.1186/s12913-019-4098-x){target="_blank"}   
 
 
 ## Cash transfer programs {-}   
