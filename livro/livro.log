@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (MiKTeX 2.9.6500) (preloaded format=xelatex 2018.3.28)  2 JAN 2020 19:36
+This is XeTeX, Version 3.14159265-2.6-0.99998 (MiKTeX 2.9.6500) (preloaded format=xelatex 2018.3.28)  2 JAN 2020 20:07
 entering extended mode
 **./livro.tex
 (livro.tex
@@ -932,12 +932,12 @@ Underfull \vbox (badness 2181) has occurred while \output is active []
 
 [21]
 No file livro.bbl.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 283.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 284.
 [22]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 283.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 284.
 (livro.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 283.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 283.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 284.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 284.
  ) 
 Here is how much of TeX's memory you used:
  21634 strings out of 427835
