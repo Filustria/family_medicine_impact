@@ -1,0 +1,29 @@
+# Quick references {-}    
+
+## Articles about governance {-}    
+
+Look at page 25 - 
+[Clinical governance and the drive for quality improvement in the new NHS in England](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1113460/pdf/61.pdf){target="_blank"}     
+
+## Articles about Family Medicine and Public Health {-}   
+
+Explaining what is general practice and public health. General practitioners (GPs) tend to focus most of their energies on providing primary healthcare to individuals, with less attention to the overall population health issues in their community. In contrast, public health practitioners tend to focus on the health needs of entire populations, by addressing the social determinants of health, with less attention to individual patient care. 
+[General practice and public health: who is my patient? Volume 43, No.7, July 2014 Pages 483-486](https://www.racgp.org.au/afp/2014/july/who-is-my-patient/){target="_blank"}    
+
+About super specialization in the US - 
+[Where Have the Generalists Gone? They Became Specialists, Then Subspecialists](https://www.amjmed.com/article/S0002-9343%2817%2930134-1/pdf){target="_blank"}    
+
+
+
+## Articles about ambulatory-care sensitive conditions {-}
+
+Primeiro artigo a citar o termo ambulatory-care sensitive conditions
+[Impact Of Socioeconomic Status On Hospital Use In New York City](https://www.healthaffairs.org/doi/pdf/10.1377/hlthaff.12.1.162){target="_blank"}     
+John Billings, Lisa Zeitel, Joanne Lukomnik, Timothy S. Carey, Arthur E. Blank, and Laurie Newman   
+
+[Internações por condições sensíveis à atenção primária: a construção da lista brasileira como ferramenta para medir o desempenho do sistema de saúde (Projeto ICSAP – Brasil)](http://www.scielo.br/pdf/csp/v25n6/16.pdf){target="_blank"}    
+
+
+[Internações por condições sensíveis à atenção primária à saúde, 2008-2015: uma análise do impacto da expansão da ESF na cidade do Rio de Janeiro](http://www.scielo.br/scielo.php?script=sci_arttext&pid=S1414-462X2018000200178&lng=pt&nrm=iso&tlng=pt){target="_blank"}       
+Identificou-se tendência ao aumento da cobertura da ESF e à redução dos indicadores de ICSAP, bem como correlação inversa entre a cobertura pela ESF e a proporção de ICSAP (r = -0,888, p = 0,020), e entre a cobertura pela ESF e a taxa de ICSAP (r = -0,753, p = 0,031). Observou-se associação significativa para as razões de taxa dos indicadores de cobertura a partir de 2011 e de taxas de internação a partir de 2013.   
+Cad. saúde colet. vol.26 no.2 Rio de Janeiro abr./jun. 2018 http://dx.doi.org/10.1590/1414-462x201800020230  
