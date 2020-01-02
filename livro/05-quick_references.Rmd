@@ -33,6 +33,11 @@
 - [Family medicine around the world: overview by region The Besrour Papers: a series on the state of family medicine in the world](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5471080/pdf/0630436.pdf){target="_blank"} Neil Arya, Christine Gibson, David Ponka, Cynthia Haq, Stephanie Hansel, Bruce Dahlman, Katherine Rouleau   
 
 
+## Training Family Medicine {-}   
+
+- [A formação em medicina de família no Brasil: a necessidade de caminhos convergentes, Armando Henrique Norman, 2014](https://www.rbmfc.org.br/rbmfc/article/view/875){target="_blank"}    
+
+
 
 ## Family Medicine and Public Health {-}   
 
@@ -53,12 +58,17 @@
 
 - Sensitive conditions accounted for 115,340 (26.4%) hospitalizations. Over the 4-year period, hospitalizations for sensitive conditions declined by 17.9%, vs only 8.3% for non-sensitive ones (P<0.001). Hospitalization for sensitive conditions declined 22% for women in areas of high social vulnerability vs 9% for women in areas of low vulnerability (P<0.001); for men, 17% vs 10% (P=0.11). [Trends in hospitalizations for primary care sensitive conditions following the implementation of Family Health Teams in Belo Horizonte, Brazil, Claunara Schilling Mendonça, Erno Harzheim, Bruce B Duncan, Luciana Neves Nunes, Werner Leyh](https://academic.oup.com/heapol/article/27/4/348/605470){target="_blank"}   
 
+
 - [Internações por condições sensíveis à atenção primária à saúde, 2008-2015: uma análise do impacto da expansão da ESF na cidade do Rio de Janeiro](http://www.scielo.br/scielo.php?script=sci_arttext&pid=S1414-462X2018000200178&lng=pt&nrm=iso&tlng=pt){target="_blank"}       
 Identificou-se tendência ao aumento da cobertura da ESF e à redução dos indicadores de ICSAP, bem como correlação inversa entre a cobertura pela ESF e a proporção de ICSAP (r = -0,888, p = 0,020), e entre a cobertura pela ESF e a taxa de ICSAP (r = -0,753, p = 0,031). Observou-se associação significativa para as razões de taxa dos indicadores de cobertura a partir de 2011 e de taxas de internação a partir de 2013.   
 Cad. saúde colet. vol.26 no.2 Rio de Janeiro abr./jun. 2018 http://dx.doi.org/10.1590/1414-462x201800020230    
 
 
 - ACSC hospitalization, while being a negative index of primary care access, can also be a measure indicating the impact of the hospital bed supply, and it is still a valid measure of the disparity of health care, the original motivation for this topic. [Hospitalizations for ambulatory care sensitive conditions as an indicator of access to primary care and excess of bed supply](https://bmchealthservres.biomedcentral.com/articles/10.1186/s12913-019-4098-x){target="_blank"}   
+
+
+- Among these ecological studies with limited quality evidence, increasing coverage by the FHS was consistently associated with improvements in child mortality. Scarce evidence on other health outcomes, hospitalization and synergies with cash transfer was found. [The impact of the Brazilian family health strategy on selected primary care sensitive conditions: A systematic review.](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0182336){target="_blank"}    
+
 
 
 ## Cash transfer programs {-}   
