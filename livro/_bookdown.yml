@@ -1,0 +1,6 @@
+output_dir: "C:\\Users\\Adelson\\Desktop\\thesis\\subindo\\family_medicine_impact\\docs"
+book_filename: "livro"
+delete_merged_file: true
+language:
+  ui:
+    chapter_name: "Chapter "
