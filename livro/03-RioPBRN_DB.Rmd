@@ -1,6 +1,7 @@
 # The Rio de Janeiro practice-based research network database - real world information to study primary care and family medicine.  {-}
 
-## Introduction: {-}   
+
+## Introduction {-}   
 
 
 
