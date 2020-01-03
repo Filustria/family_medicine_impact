@@ -150,30 +150,30 @@ The Rio de Janeiro practice-based research neetwork (RioPBRN) is the novice rese
 
 ## Primary Care {-}
 
-- [The world health report 2008: Primary Health Care now more than ever.](https://www.who.int/whr/2008/whr08_en.pdf){target="_blank"}    
+- **The world health report 2008** [Primary Health Care - now more than ever.](https://www.who.int/whr/2008/whr08_en.pdf){target="_blank"}    
 
 
-- [Contribution of Primary Care to Health Systems and Health Barbara Starfield, Leiyu Shi, and James Macinko](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2690145/){target="_blank"}    
+- **Contribution of Primary Care to Health Systems and Health** [Barbara Starfield, Leiyu Shi, and James Macinko; Milbank Q. 2005 Sep; 83(3): 457–502. doi: 10.1111/j.1468-0009.2005.00409.x](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2690145/){target="_blank"}    
 
 
 
-- [The Structure of Primary Care: Framing a Big Picture; James M. Gill; (Fam Med 2004;36(1):65-8.)](https://fammedarchives.blob.core.windows.net/imagesandpdfs/fmhub/fm2004/January/James65.pdf){target="_blank"}     
+- **The Structure of Primary Care: Framing a Big Picture** [James M. Gill; (Fam Med 2004;36(1):65-8.)](https://fammedarchives.blob.core.windows.net/imagesandpdfs/fmhub/fm2004/January/James65.pdf){target="_blank"}     
 
-- Primary care is the subject of more charters, declarations, manifestos, and principles than any other medical discipline, except perhaps its similarly plagued cousin, public health.The force of the argument for specialisation, on pragmatic grounds alone, seems irresistible. Has “evidence-based medicine” made primary care by generalist doctors an anachronism? General-practice research is too often about administration. A creeping managerialism is destroying one of primary care’s most important distinguishing traits—namely, the flexibility, informality, and pastoral strengths that come with a degree of laxity in its organisation. [Evidence and primary care](https://sci-hub.se/https://doi.org/10.1016/S0140-6736(99)00056-2){target="_blank"}  
-
-
-- Nearly half of published studies in UK primary care journals were concerned with either organization and administration issues in primary care or social problems (509 studies, 48%). Just over half were either qualitative studies or surveys of opinion or attitudes (528 studies, 50%). The overall number of RCTs was low (67 studies, 6%), and the proportion published has not changed over time (chi 2 for trend = 3.79, df = 1, P = 0.051). In contrast to surgical journals, nearly one-fifth of studies in general practice followed a longitudinal design (186 studies, 18%). [The content and methodology of research papers published in three United Kingdom primary care journals. TOBY THOMAS, TOM FAHEY, MAGGIE SOMERSET; British Journal of General Practice, May 1998](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1410169/pdf/brjgenprac00086-0019.pdf){target="_blank"}   
+- **Evidence and primary care** - Primary care is the subject of more charters, declarations, manifestos, and principles than any other medical discipline, except perhaps its similarly plagued cousin, public health.The force of the argument for specialisation, on pragmatic grounds alone, seems irresistible. Has “evidence-based medicine” made primary care by generalist doctors an anachronism? General-practice research is too often about administration. A creeping managerialism is destroying one of primary care’s most important distinguishing traits—namely, the flexibility, informality, and pastoral strengths that come with a degree of laxity in its organisation. [Horton, R. (1999). Evidence and primary care. The Lancet, 353(9153), 609–610. doi:10.1016/s0140-6736(99)00056-2](https://sci-hub.se/https://doi.org/10.1016/S0140-6736(99)00056-2){target="_blank"}  
 
 
-- [30 years after Alma-Ata: has primary health care worked in countries?; Jon Rohde, Simon Cousens, Mickey Chopra, Viroj Tangcharoensathien, Robert Black, Zulfi qar A Bhutta, Joy E Lawn;  The Lancet; Vol 372 September 13, 2008](https://sci-hub.se/https://doi.org/10.1016/S0140-6736(08)61405-1){target="_blank"}    
+- **The content and methodology of research papers published in three United Kingdom primary care journals.** Nearly half of published studies in UK primary care journals were concerned with either organization and administration issues in primary care or social problems (509 studies, 48%). Just over half were either qualitative studies or surveys of opinion or attitudes (528 studies, 50%). The overall number of RCTs was low (67 studies, 6%), and the proportion published has not changed over time (chi 2 for trend = 3.79, df = 1, P = 0.051). In contrast to surgical journals, nearly one-fifth of studies in general practice followed a longitudinal design (186 studies, 18%). [The content and methodology of research papers published in three United Kingdom primary care journals. TOBY THOMAS, TOM FAHEY, MAGGIE SOMERSET; British Journal of General Practice, May 1998](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1410169/pdf/brjgenprac00086-0019.pdf){target="_blank"}   
 
 
-- [Alma-Ata at 40 years: reflections from the Lancet Commission on Investing in Health; David A Watkins, Gavin Yamey, Marco Schäferhoff, Olusoji Adeyi, George Alleyne, Ala Alwan, Seth Berkley, Richard Feachem, Julio Frenk, Gargee Ghosh, Sue J Goldie, Yan Guo, Sanjeev Gupta, Felicia Knaul, Margaret Kruk, Rachel Nugent, Osondu Ogbuoji, Jinyuan Qi, Srinath Reddy, Helen Saxenian, Agnés Soucat, Dean T Jamison, Lawrence H Summers](https://sci-hub.se/https://doi.org/10.1016/S0140-6736(18)32389-4){target="_blank"}    
+- **30 years after Alma-Ata: has primary health care worked in countries?** [Jon Rohde, Simon Cousens, Mickey Chopra, Viroj Tangcharoensathien, Robert Black, Zulfi qar A Bhutta, Joy E Lawn;  The Lancet; Vol 372 September 13, 2008](https://sci-hub.se/https://doi.org/10.1016/S0140-6736(08)61405-1){target="_blank"}    
 
 
-- [Universal Coverage Scheme Assessment of the first 10 years in Thailand](https://www.hsri.or.th/sites/default/files/browse/tor5-1-1.pdf){target="_blank"}    
+- **Alma-Ata at 40 years: reflections from the Lancet Commission on Investing in Health** [David A Watkins, Gavin Yamey, Marco Schäferhoff, Olusoji Adeyi, George Alleyne, Ala Alwan, Seth Berkley, Richard Feachem, Julio Frenk, Gargee Ghosh, Sue J Goldie, Yan Guo, Sanjeev Gupta, Felicia Knaul, Margaret Kruk, Rachel Nugent, Osondu Ogbuoji, Jinyuan Qi, Srinath Reddy, Helen Saxenian, Agnés Soucat, Dean T Jamison, Lawrence H Summers](https://sci-hub.se/https://doi.org/10.1016/S0140-6736(18)32389-4){target="_blank"}    
 
-- The self-styled family practices have advantages in all domains of responsiveness when compared to public hospital OPDs. Attention was perceived to be more prompt in private clinics and private hospitals, but for the other domains, self-styled family practices provided greater patient satisfaction. Self-styled family practices and public hospitals were felt to be trusted more than private clinics and hospitals. [Patient experience with self-styled family practices and conventional primary care in Thailand; Asia Pacific Journal of Family Medicine Volume 5 Issue 1](http://www.apfmj-archive.com/afm5_1/afm27.pdf){target="_blank"}     
+
+- **Universal Coverage Scheme Assessment of the first 10 years in Thailand** [Asia Pacific Journal of Family Medicine, 5 (1), Yongyuth PONGSUPAP and Wim VAN LERBERGHE](https://www.hsri.or.th/sites/default/files/browse/tor5-1-1.pdf){target="_blank"}    
+
+- **Patient experience with self-styled family practices and conventional primary care in Thailand** The self-styled family practices have advantages in all domains of responsiveness when compared to public hospital OPDs. Attention was perceived to be more prompt in private clinics and private hospitals, but for the other domains, self-styled family practices provided greater patient satisfaction. Self-styled family practices and public hospitals were felt to be trusted more than private clinics and hospitals. [Asia Pacific Journal of Family Medicine, 5 (1), Yongyuth PONGSUPAP and Wim VAN LERBERGHE](http://www.apfmj-archive.com/afm5_1/afm27.pdf){target="_blank"}     
 
 
 
