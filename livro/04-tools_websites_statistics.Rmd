@@ -5,6 +5,11 @@
 
 - [Tutorial: Poisson Regression in R](https://www.dataquest.io/blog/tutorial-poisson-regression-in-r/){target="_blank"}    
 
+- [Residuals in Poisson regression in R](https://stats.stackexchange.com/questions/360158/residuals-in-poisson-regression-in-r){target="_blank"}    
+
+- [Poisson Regression Model for Count Data](https://online.stat.psu.edu/stat504/node/169/){target="_blank"}    
+
+
 ## Simulation {-}   
 
 - [Tidy Simulation with simglm](https://cran.r-project.org/web/packages/simglm/vignettes/tidy_simulation.html){target="_blank"}   
