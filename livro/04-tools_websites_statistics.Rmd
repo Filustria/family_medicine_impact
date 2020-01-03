@@ -10,6 +10,8 @@
 - [Poisson Regression Model for Count Data](https://online.stat.psu.edu/stat504/node/169/){target="_blank"}    
 
 - [POISSON REGRESSION | R DATA ANALYSIS EXAMPLES](https://stats.idre.ucla.edu/r/dae/poisson-regression/){target="_blank"}    
+
+
 ## Simulation {-}   
 
 - [Tidy Simulation with simglm](https://cran.r-project.org/web/packages/simglm/vignettes/tidy_simulation.html){target="_blank"}   
