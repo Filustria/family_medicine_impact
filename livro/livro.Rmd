@@ -125,14 +125,19 @@ The Rio de Janeiro practice-based research neetwork (RioPBRN) is the novice rese
 - [POISSON REGRESSION | R DATA ANALYSIS EXAMPLES](https://stats.idre.ucla.edu/r/dae/poisson-regression/){target="_blank"}    
 
 
-## Simulation {-}   
 
-- [Tidy Simulation with simglm](https://cran.r-project.org/web/packages/simglm/vignettes/tidy_simulation.html){target="_blank"}   
-
-- [Simulate! Simulate! - Part 1: A linear model](https://aosmith.rbind.io/2018/01/09/simulate-simulate-part1/){target="_blank"}    
+## Simulation {-}    
 
 
-## Forecasting {-}   
+- [Tidy Simulation with simglm](https://cran.r-project.org/web/packages/simglm/vignettes/tidy_simulation.html){target="_blank"}    
+
+
+- [Simulate! Simulate! - Part 1: A linear model](https://aosmith.rbind.io/2018/01/09/simulate-simulate-part1/){target="_blank"}     
+
+
+
+## Forecasting {-}    
+
 
 - [Forecasting: Principles and Practice](https://otexts.com/fpp2/){target="_blank"}    
 
