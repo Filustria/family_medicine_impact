@@ -145,7 +145,7 @@ Cad. saúde colet. vol.26 no.2 Rio de Janeiro abr./jun. 2018 http://dx.doi.org/1
 
 - Among these ecological studies with limited quality evidence, increasing coverage by the FHS was consistently associated with improvements in child mortality. Scarce evidence on other health outcomes, hospitalization and synergies with cash transfer was found. [The impact of the Brazilian family health strategy on selected primary care sensitive conditions: A systematic review.](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0182336){target="_blank"}    
 
-## Priority setting
+## Priority setting {-}  
 
 - [Stakeholder involvement in health research priority setting in low income countries: the case of Zambia; Lydia Kapiriri; Research Involvement and Engagement (2018) 4:41](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6234591/pdf/40900_2018_Article_121.pdf){target="_blank"}     
 
@@ -166,7 +166,7 @@ Cad. saúde colet. vol.26 no.2 Rio de Janeiro abr./jun. 2018 http://dx.doi.org/1
 - Multimorbidity in Brazil is as common as in more affluent countries. Women in Brazil develop diseases at younger ages than men. [Epidemiology of multimorbidity within the Brazilian adult general population: Evidence from the 2013 National Health Survey (PNS 2013); Magdalena Rzewuska ,João Mazzoncini de Azevedo-Marques, Domenica Coxon, Maria Lúcia Zanetti, Ana Carolina Guidorizzi Zanetti, Laercio Joel Franco, Jair Lício Ferreira Santos Published: February 9, 2017 https://doi.org/10.1371/journal.pone.0171813](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0171813){target="_blank"}    
 
 
-## DATABASES
+## DATABASES {-}  
 
 - [SAIH](http://www.saude.sp.gov.br/resources/ses/perfil/gestor/homepage/auditoria/manuais/manual_sih_janeiro_2017.pdf){target="_blank"}    
 
