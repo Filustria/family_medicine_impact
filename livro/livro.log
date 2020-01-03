@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (MiKTeX 2.9.6500) (preloaded format=xelatex 2018.3.28)  2 JAN 2020 21:55
+This is XeTeX, Version 3.14159265-2.6-0.99998 (MiKTeX 2.9.6500) (preloaded format=xelatex 2018.3.28)  2 JAN 2020 22:03
 entering extended mode
 **./livro.tex
 (livro.tex
@@ -892,62 +892,19 @@ ng>
 
 ] [17] [18
 
-]
-LaTeX Font Info:    Try loading font information for OT1+lmr on input line 232.
-
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\lm\ot1lmr.fd"
-File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
-)
-Package microtype Info: Loading generic protrusion settings for font family
-(microtype)             `lmr' (encoding: OT1).
-(microtype)             For optimal results, create family-specific settings.
-(microtype)             See the microtype manual for details.
-LaTeX Font Info:    Try loading font information for OML+lmm on input line 232.
-
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\lm\omllmm.fd"
-File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
-)
-LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 232
-.
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\lm\omslmsy.fd"
-File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
-)
-LaTeX Font Info:    Try loading font information for OMX+lmex on input line 232
-.
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\lm\omxlmex.fd"
-File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
-)
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 232.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 232.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 232.
-LaTeX Font Info:    Try loading font information for U+msa on input line 232.
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-) ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\microtype\mt-msa.cfg"
-File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
-)
-LaTeX Font Info:    Try loading font information for U+msb on input line 232.
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-) ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\microtype\mt-msb.cfg"
-File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
-) [19]
+] [19]
 Missing character: There is no ≥ in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no ≥ in font [lmroman10-regular]:mapping=tex-text;!
-[20]
 ! Text line contains an invalid character.
 l.251 ...s none (the reference category), low (^^A
                                                   30\%), intermediate (^^A30...
  
 Here is how much of TeX's memory you used:
- 21602 strings out of 427835
- 399874 string characters out of 3151314
+ 21466 strings out of 427835
+ 397142 string characters out of 3151314
  532662 words of memory out of 3000000
- 25383 multiletter control sequences out of 15000+200000
- 542983 words of font info for 51 fonts, out of 3000000 for 9000
+ 25293 multiletter control sequences out of 15000+200000
+ 530728 words of font info for 35 fonts, out of 3000000 for 9000
  1328 hyphenation exceptions out of 8191
  45i,5n,54p,10448b,391s stack positions out of 5000i,500n,10000p,200000b,50000s
-Output written on livro.pdf (20 pages).
+Output written on livro.pdf (19 pages).
