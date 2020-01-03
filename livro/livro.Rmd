@@ -133,9 +133,29 @@ The Rio de Janeiro practice-based research neetwork (RioPBRN) is the novice rese
 
 # Quick references {-}    
 
-## Clinical governance {-}    
+
+
+## Primary Care {-}
+
+- Primary care is the subject of more charters, declarations, manifestos, and principles than any other medical discipline, except perhaps its similarly plagued cousin, public health.The force of the argument for specialisation, on pragmatic grounds alone, seems irresistible. Has “evidence-based medicine” made primary care by generalist doctors an anachronism? General-practice research is too often about administration. A creeping managerialism is destroying one of primary care’s most important distinguishing traits—namely, the flexibility, informality, and pastoral strengths that come with a degree of laxity in its organisation. [Evidence and primary care](https://sci-hub.se/https://doi.org/10.1016/S0140-6736(99)00056-2){target="_blank"}  
+
+
+- Nearly half of published studies in UK primary care journals were concerned with either organization and administration issues in primary care or social problems (509 studies, 48%). Just over half were either qualitative studies or surveys of opinion or attitudes (528 studies, 50%). The overall number of RCTs was low (67 studies, 6%), and the proportion published has not changed over time (chi 2 for trend = 3.79, df = 1, P = 0.051). In contrast to surgical journals, nearly one-fifth of studies in general practice followed a longitudinal design (186 studies, 18%). [The content and methodology of research papers published in three United Kingdom primary care journals. TOBY THOMAS, TOM FAHEY, MAGGIE SOMERSET; British Journal of General Practice, May 1998](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1410169/pdf/brjgenprac00086-0019.pdf){target="_blank"}   
+
+
+## Clinical governance and Sustainability {-}    
+
+
+- Clinical governance is defined as “A framework through which NHS organisations are accountable for continuously improving the quality of their services and safe-guarding high standards of care by creating an environment in which excellence in clinical care will flourish.”1 It's often thought of in terms of the seven pillars of clinical governance—clinical effectiveness, risk management, patient experience and involvement, communication, resource effectiveness, strategic effectiveness, and learning effectiveness. [What is clinical governance?; Carl Gray; BMJ 2005; 330 doi: https://doi.org/10.1136/bmj.330.7506.s254-b BMJ 2005;330:s254](https://www.bmj.com/content/330/7506/s254.3){target="_blank"}   
+
 
 - Look at page 25 - [Clinical governance and the drive for quality improvement in the new NHS in England](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1113460/pdf/61.pdf){target="_blank"}     
+
+
+- [Strategies for developing sustainable health research capacity in low and middle-income countries: a prospective, qualitative study investigating the barriers and enablers to locally led clinical trial conduct in Ethiopia, Cameroon and Sri Lanka; Samuel R P Franzen, Clare Chandler, Sisira Siribaddana, Julius Atashili, Brian Angus, Trudie Lang; BMJ Open 2017;7:e017246. doi:10.1136/bmjopen-2017-017246](https://bmjopen.bmj.com/content/bmjopen/7/10/e017246.full.pdf){target="_blank"}    
+
+
+- Clinical governance in primary care is aimed at enhancing the collective responsibility and accountability of professionals in primary care groups or trusts. [Accountability for clinical governance: developing collective responsibility for quality in primary care; Pauline Allen; BMJ 2000;321:608–11](https://www.who.int/management/partnerships/accountability/ClinicalGovernancePHCAccountability.pdf){target="_blank"}    
 
 
 ## SUS {-}   
@@ -151,6 +171,9 @@ The Rio de Janeiro practice-based research neetwork (RioPBRN) is the novice rese
 
 
 - [Formação de Médicos Especialistas no SUS: Descrição e Análise da Implementação do Programa Nacional de Apoio à Formação de Médicos Especialistas em Áreas Estratégicas (Pró-Residência)](http://www.scielo.br/pdf/rbem/v37n1/11.pdf){target="_blank"}    
+
+
+- [The More Doctors Program and the rearrangement of medical residency education focused on Family and Community Medicine; Felipe Proenço de Oliveira, Cássia de Andrade Araújo, Odete Messa Torres, Alexandre Medeiros de Figueiredo, Priscilla Azevedo Souza, Francisco Arsego de Oliveira;  Interface (Botucatu). 2019; 23(1): e180008 https://doi.org/10.1590/Interface.180008](http://www.scielo.br/pdf/icse/v23s1/1807-5762-icse-23-s1-e180008.pdf){target="_blank"}   
 
 
 ## Evidences about primary Care in Brazil {-}   

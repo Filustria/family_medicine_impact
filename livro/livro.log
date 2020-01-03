@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (MiKTeX 2.9.6500) (preloaded format=xelatex 2018.3.28)  2 JAN 2020 22:05
+This is XeTeX, Version 3.14159265-2.6-0.99998 (MiKTeX 2.9.6500) (preloaded format=xelatex 2018.3.28)  2 JAN 2020 22:55
 entering extended mode
 **./livro.tex
 (livro.tex
@@ -893,10 +893,17 @@ ng>
 ] [17] [18
 
 ] [19]
+Underfull \hbox (badness 1803) in paragraph at lines 250--251
+\TU/lmr/m/n/10 Alexandre Medeiros de Figueiredo, Priscilla Azevedo Souza, Fran-
+
+ []
+
+[20]
 Missing character: There is no ≥ in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no ≥ in font [lmroman10-regular]:mapping=tex-text;!
+[21]
 ! Text line contains an invalid character.
-l.251 ...s none (the reference category), low (^^A
+l.269 ...s none (the reference category), low (^^A
                                                   30\%), intermediate (^^A30...
  
 Here is how much of TeX's memory you used:
@@ -906,5 +913,5 @@ Here is how much of TeX's memory you used:
  25293 multiletter control sequences out of 15000+200000
  530728 words of font info for 35 fonts, out of 3000000 for 9000
  1328 hyphenation exceptions out of 8191
- 45i,5n,54p,10448b,391s stack positions out of 5000i,500n,10000p,200000b,50000s
-Output written on livro.pdf (19 pages).
+ 45i,5n,54p,10448b,393s stack positions out of 5000i,500n,10000p,200000b,50000s
+Output written on livro.pdf (21 pages).
