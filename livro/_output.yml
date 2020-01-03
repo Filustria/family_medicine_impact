@@ -5,7 +5,7 @@ bookdown::gitbook:
       before: |
         <li><a href="./">Análise do impacto da formação em Medicina de Família e Comunidade na reforma da atenção primária à saúde no Rio de Janeiro</a></li>
       after: |
-        <li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
+        <li><a href="https://filustria.github.io/family_medicine_impact/" target="blank">Cover</a></li>
     download: ["pdf", "epub"]
 bookdown::pdf_book:
   includes:
