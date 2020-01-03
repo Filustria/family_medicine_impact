@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (MiKTeX 2.9.6500) (preloaded format=xelatex 2018.3.28)  2 JAN 2020 23:42
+This is XeTeX, Version 3.14159265-2.6-0.99998 (MiKTeX 2.9.6500) (preloaded format=xelatex 2018.3.28)  3 JAN 2020 00:00
 entering extended mode
 **./livro.tex
 (livro.tex
@@ -893,7 +893,7 @@ ng>
 ] [17] [18
 
 ] [19] [20]
-Underfull \hbox (badness 1803) in paragraph at lines 268--269
+Underfull \hbox (badness 1803) in paragraph at lines 266--267
 \TU/lmr/m/n/10 Alexandre Medeiros de Figueiredo, Priscilla Azevedo Souza, Fran-
 
  []
@@ -902,7 +902,7 @@ Underfull \hbox (badness 1803) in paragraph at lines 268--269
 Missing character: There is no ≥ in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no ≥ in font [lmroman10-regular]:mapping=tex-text;!
 ! Text line contains an invalid character.
-l.291 ...s none (the reference category), low (^^A
+l.289 ...s none (the reference category), low (^^A
                                                   30\%), intermediate (^^A30...
  
 Here is how much of TeX's memory you used:
