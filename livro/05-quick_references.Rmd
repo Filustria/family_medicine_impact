@@ -25,9 +25,19 @@
 - Clinical governance in primary care is aimed at enhancing the collective responsibility and accountability of professionals in primary care groups or trusts. [Accountability for clinical governance: developing collective responsibility for quality in primary care; Pauline Allen; BMJ 2000;321:608–11](https://www.who.int/management/partnerships/accountability/ClinicalGovernancePHCAccountability.pdf){target="_blank"}    
 
 
+## Quality Improvement initiatives {-}   
+
+- [Effects of PACK guide training on the management of asthma and chronic obstructive pulmonary disease by primary care clinicians: a pragmatic cluster randomised controlled trial in Florianópolis, Brazil; Max Oscar Bachmann, Eric D Bateman, Rafael Stelmach, Alvaro A Cruz, Matheus Pacheco de Andrade, Ronaldo Zonta, Jorge Zepeda, Sonia Natal, Ruth Vania Cornick, Camilla Wattrus, Lauren Anderson, Daniella Georgeu-Pepper, Carl Lombard, Lara R Fairall; BMJ Global Health 2019;4:e001921. doi:10.1136/bmjgh-2019-001921](file:///C:/Users/Adelson/Downloads/e001921.full.pdf){target="_blank"}    
+
+
 ## SUS {-}   
 
-- From 2000 to 2014, total health expenditure rose from 7.0% to 8.3% of gross domestic product and population coverage with the Family Health Strategy rose from 7.6% to 58.2%. [The Brazilian health system at crossroads: progress, crisis and resilience](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6035510/pdf/bmjgh-2018-000829.pdf){target="_blank"}     
+- From 2000 to 2014, total health expenditure rose from 7.0% to 8.3% of gross domestic product and population coverage with the Family Health Strategy rose from 7.6% to 58.2%. [The Brazilian health system at crossroads: progress, crisis and resilience; Adriano Massuda, Thomas Hone, Fernando Antonio Gomes Leles, Marcia C de Castro, Rifat Atun; BMJ Glob Health 2018;3:e000829. doi:10.1136/bmjgh-2018-000829](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6035510/pdf/bmjgh-2018-000829.pdf){target="_blank"}     
+
+
+- The chronic underfunding of the system imposes serious limitations on the overall expansion of the SUS, particularly at the secondary and tertiary levels. [Monitoring and Evaluating Progress towards Universal Health Coverage in Brazil](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1001692#){target="_blank"}   
+
+
 
 ## Capacity building of Human resources {-}  
 
@@ -121,3 +131,6 @@ Cad. saúde colet. vol.26 no.2 Rio de Janeiro abr./jun. 2018 http://dx.doi.org/1
 - The association of higher FHP coverage with lower PNIM became stronger as BFP coverage increased. At the means of all other variables, when BFP coverage was 25%, predicted PNIM was 5.24 (95% confidence interval [CI] = 4.95, 5.53) for FHP coverage = 0% and 3.54 (95% CI = 2.77, 4.31) for FHP coverage = 100%. When BFP coverage was 60%, predicted PNIM was 4.65 (95% CI = 4.36, 4.94) when FHP coverage = 0% and 1.38 (95% CI = 0.88, 1.89) when FHP coverage = 100%. [The combined effects of the expansion of primary health care and conditional cash transfers on infant mortality in Brazil, 1998-2010.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3828713/pdf/AJPH.2013.301452.pdf){target="_blank"}    
 
 
+## Multimorbidity {-}  
+
+- Multimorbidity in Brazil is as common as in more affluent countries. Women in Brazil develop diseases at younger ages than men. [Epidemiology of multimorbidity within the Brazilian adult general population: Evidence from the 2013 National Health Survey (PNS 2013); Magdalena Rzewuska ,João Mazzoncini de Azevedo-Marques, Domenica Coxon, Maria Lúcia Zanetti, Ana Carolina Guidorizzi Zanetti, Laercio Joel Franco, Jair Lício Ferreira Santos Published: February 9, 2017 https://doi.org/10.1371/journal.pone.0171813](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0171813){target="_blank"}     
