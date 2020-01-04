@@ -164,25 +164,25 @@ it was found that most indicators belonged to the “Quality/Safety” group of 
 
 ## Ambulatory-care sensitive conditions {-}
 
-- **Impact Of Socioeconomic Status On Hospital Use In New York City.** Primeiro artigo a citar o termo ambulatory-care sensitive conditions [John Billings, Lisa Zeitel, Joanne Lukomnik, Timothy S. Carey, Arthur E. Blank, and Laurie Newman     ](https://www.healthaffairs.org/doi/pdf/10.1377/hlthaff.12.1.162){target="_blank"} 
+- **Impact Of Socioeconomic Status On Hospital Use In New York City.** Primeiro artigo a citar o termo ambulatory-care sensitive conditions [John Billings, Lisa Zeitel, Joanne Lukomnik, Timothy S. Carey, Arthur E. Blank, and Laurie Newman](https://www.healthaffairs.org/doi/pdf/10.1377/hlthaff.12.1.162){target="_blank"} 
 
 
-- [Internações por condições sensíveis à atenção primária: a construção da lista brasileira como ferramenta para medir o desempenho do sistema de saúde (Projeto ICSAP – Brasil)](http://www.scielo.br/pdf/csp/v25n6/16.pdf){target="_blank"}    
+- **Internações por condições sensíveis à atenção primária: a construção da lista brasileira como ferramenta para medir o desempenho do sistema de saúde (Projeto ICSAP – Brasil).** [Cad. Saúde Pública, Rio de Janeiro, 25(6):1337-1349, jun, 2009](http://www.scielo.br/pdf/csp/v25n6/16.pdf){target="_blank"}    
 
--  The results show a 45% reduction of the standardized ACSC rates per 10,000 inhabitants, from 120 to 66 in the period 2001-2016.  [The Family Health Strategy: expanding access and reducing hospitalizations due to ambulatory care sensitive conditions (ACSC)](http://www.scielo.br/pdf/csc/v23n6/en_1413-8123-csc-23-06-1903.pdf){target="_blank"}     
+- **The Family Health Strategy: expanding access and reducing hospitalizations due to ambulatory care sensitive conditions (ACSC).** The results show a 45% reduction of the standardized ACSC rates per 10,000 inhabitants, from 120 to 66 in the period 2001-2016.  [DOI: 10.1590/1413-81232018236.05592018](http://www.scielo.br/pdf/csc/v23n6/en_1413-8123-csc-23-06-1903.pdf){target="_blank"}     
 
 - **Trends in hospitalizations for primary care sensitive conditions following the implementation of Family Health Teams in Belo Horizonte, Brazil.** Sensitive conditions accounted for 115,340 (26.4%) hospitalizations. Over the 4-year period, hospitalizations for sensitive conditions declined by 17.9%, vs only 8.3% for non-sensitive ones (P<0.001). Hospitalization for sensitive conditions declined 22% for women in areas of high social vulnerability vs 9% for women in areas of low vulnerability (P<0.001); for men, 17% vs 10% (P=0.11). [Claunara Schilling Mendonça, Erno Harzheim, Bruce B Duncan, Luciana Neves Nunes, Werner Leyh](https://academic.oup.com/heapol/article/27/4/348/605470){target="_blank"}   
 
 
-- [Internações por condições sensíveis à atenção primária à saúde, 2008-2015: uma análise do impacto da expansão da ESF na cidade do Rio de Janeiro](http://www.scielo.br/scielo.php?script=sci_arttext&pid=S1414-462X2018000200178&lng=pt&nrm=iso&tlng=pt){target="_blank"}       
+- **Internações por condições sensíveis à atenção primária à saúde, 2008-2015: uma análise do impacto da expansão da ESF na cidade do Rio de Janeiro.** [Cad. saúde colet. vol.26 no.2 Rio de Janeiro abr./jun. 2018](http://www.scielo.br/scielo.php?script=sci_arttext&pid=S1414-462X2018000200178&lng=pt&nrm=iso&tlng=pt){target="_blank"}       
 Identificou-se tendência ao aumento da cobertura da ESF e à redução dos indicadores de ICSAP, bem como correlação inversa entre a cobertura pela ESF e a proporção de ICSAP (r = -0,888, p = 0,020), e entre a cobertura pela ESF e a taxa de ICSAP (r = -0,753, p = 0,031). Observou-se associação significativa para as razões de taxa dos indicadores de cobertura a partir de 2011 e de taxas de internação a partir de 2013.   
 Cad. saúde colet. vol.26 no.2 Rio de Janeiro abr./jun. 2018 http://dx.doi.org/10.1590/1414-462x201800020230    
 
 
-- ACSC hospitalization, while being a negative index of primary care access, can also be a measure indicating the impact of the hospital bed supply, and it is still a valid measure of the disparity of health care, the original motivation for this topic. [Hospitalizations for ambulatory care sensitive conditions as an indicator of access to primary care and excess of bed supply](https://bmchealthservres.biomedcentral.com/articles/10.1186/s12913-019-4098-x){target="_blank"}   
+- **Hospitalizations for ambulatory care sensitive conditions as an indicator of access to primary care and excess of bed supply.** ACSC hospitalization, while being a negative index of primary care access, can also be a measure indicating the impact of the hospital bed supply, and it is still a valid measure of the disparity of health care, the original motivation for this topic. [BMC Health Services Research volume 19, Article number: 259 (2019)](https://bmchealthservres.biomedcentral.com/articles/10.1186/s12913-019-4098-x){target="_blank"}   
 
 
-- Among these ecological studies with limited quality evidence, increasing coverage by the FHS was consistently associated with improvements in child mortality. Scarce evidence on other health outcomes, hospitalization and synergies with cash transfer was found. [The impact of the Brazilian family health strategy on selected primary care sensitive conditions: A systematic review.](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0182336){target="_blank"}    
+- **The impact of the Brazilian family health strategy on selected primary care sensitive conditions: A systematic review.** Among these ecological studies with limited quality evidence, increasing coverage by the FHS was consistently associated with improvements in child mortality. Scarce evidence on other health outcomes, hospitalization and synergies with cash transfer was found. [.Bastos ML, Menzies D, Hone T, Dehghani K, Trajman A (2017) PLOS ONE 12(12): e0189557.](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0182336){target="_blank"}    
 
 
 ## Priority setting {-}  
@@ -190,9 +190,9 @@ Cad. saúde colet. vol.26 no.2 Rio de Janeiro abr./jun. 2018 http://dx.doi.org/1
 
 - **Stakeholder involvement in health research priority setting in low income countries: the case of Zambia.** [Lydia Kapiriri; Research Involvement and Engagement (2018) 4:41](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6234591/pdf/40900_2018_Article_121.pdf){target="_blank"}     
 
-- Priority-setting for strategic funding programmes in public health research involves consultation mainly with researchers in the early phase of the process. There is an opportunity for greater breadth of participation and more transparency in priority-setting mechanisms for strategic funding programmes in population and public health research. [Priority-setting in public health research funding organisations: an exploratory qualitative study among five high-profile funders.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6014000/){target="_blank"}     
+- **Priority-setting in public health research funding organisations: an exploratory qualitative study among five high-profile funders.** Priority-setting for strategic funding programmes in public health research involves consultation mainly with researchers in the early phase of the process. There is an opportunity for greater breadth of participation and more transparency in priority-setting mechanisms for strategic funding programmes in population and public health research. [Health Res Policy Syst. 2018; 16: 53. Published online 2018 Jun 22. doi: 10.1186/s12961-018-0335-8](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6014000/){target="_blank"}     
 
-- [Past, present and future challenges in health care priority setting.](https://www.ncbi.nlm.nih.gov/pubmed/29771204){target="_blank"}     
+- **Past, present and future challenges in health care priority setting.** [J Health Organ Manag. 2018 May 21;32(3):444-462. doi: 10.1108/JHOM-01-2018-0005](https://www.ncbi.nlm.nih.gov/pubmed/29771204){target="_blank"}     
 
 - **Applying priority-setting frameworks: A review of public and vulnerable populations' participation in health-system priority setting.** [Health Policy. 2019 Dec 19. pii: S0168-8510(19)30299-4. doi: 10.1016/j.healthpol.2019.12.005](https://www.ncbi.nlm.nih.gov/pubmed/31874742){target="_blank"}     
 
@@ -203,10 +203,15 @@ Cad. saúde colet. vol.26 no.2 Rio de Janeiro abr./jun. 2018 http://dx.doi.org/1
 
 ## Cash transfer programs {-}   
 
-- [Effect of a conditional cash transfer programme on childhood mortality: a nationwide analysis of Brazilian municipalities](https://sci-hub.tw/https://doi.org/10.1016/S0140-6736(13)60715-1){target="_blank"}    
+
+- **Effect of a conditional cash transfer programme on childhood mortality: a nationwide analysis of Brazilian municipalities** [Rasella, D., Aquino, R., Santos, C. A., Paes-Sousa, R., & Barreto, M. L. (2013). The Lancet, 382(9886), 57–64. doi:10.1016/s0140-6736(13)60715-1](https://sci-hub.tw/https://doi.org/10.1016/S0140-6736(13)60715-1){target="_blank"}    
 
 
-- The association of higher FHP coverage with lower PNIM became stronger as BFP coverage increased. At the means of all other variables, when BFP coverage was 25%, predicted PNIM was 5.24 (95% confidence interval [CI] = 4.95, 5.53) for FHP coverage = 0% and 3.54 (95% CI = 2.77, 4.31) for FHP coverage = 100%. When BFP coverage was 60%, predicted PNIM was 4.65 (95% CI = 4.36, 4.94) when FHP coverage = 0% and 1.38 (95% CI = 0.88, 1.89) when FHP coverage = 100%. [The combined effects of the expansion of primary health care and conditional cash transfers on infant mortality in Brazil, 1998-2010.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3828713/pdf/AJPH.2013.301452.pdf){target="_blank"}    
+
+
+
+
+- **The combined effects of the expansion of primary health care and conditional cash transfers on infant mortality in Brazil, 1998-2010.** The association of higher FHP coverage with lower PNIM became stronger as BFP coverage increased. At the means of all other variables, when BFP coverage was 25%, predicted PNIM was 5.24 (95% confidence interval [CI] = 4.95, 5.53) for FHP coverage = 0% and 3.54 (95% CI = 2.77, 4.31) for FHP coverage = 100%. When BFP coverage was 60%, predicted PNIM was 4.65 (95% CI = 4.36, 4.94) when FHP coverage = 0% and 1.38 (95% CI = 0.88, 1.89) when FHP coverage = 100%. [American Journal of Public Health | November 2013, Vol 103, No. 11](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3828713/pdf/AJPH.2013.301452.pdf){target="_blank"}    
 
 
 ## Multimorbidity {-}  
@@ -244,7 +249,7 @@ Cad. saúde colet. vol.26 no.2 Rio de Janeiro abr./jun. 2018 http://dx.doi.org/1
 - **Manual SAIH - ** [manual_sih_janeiro_2017.pdf](http://www.saude.sp.gov.br/resources/ses/perfil/gestor/homepage/auditoria/manuais/manual_sih_janeiro_2017.pdf){target="_blank"}    
 
 
-- **Privacy protection and public goods: building a genetic database for health research in Newfoundland and Labrador** [article](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3555321/){target="_blank"}    
+- **Privacy protection and public goods: building a genetic database for health research in Newfoundland and Labrador** [J Am Med Inform Assoc. 2013 Jan-Feb; 20(1): 38–43. doi: 10.1136/amiajnl-2012-001009](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3555321/){target="_blank"}    
 
 
 - **The Information Governance Review.** Information: To share or not to share? The Information Governance Review; March 2013. We recommend that the linkage of de-identified but still potentially identifiable information from more than one organisation should be done in specialist, well-governed, independently scrutinised environments known as ‘accredited safe havens’. Chapter 6 proposes national minimum standards for safe havens, supported by a system of external independent audit and other requirements to give the public confidence. [The Information Governance Review](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/192572/2900774_InfoGovernance_accv2.pdf){target="_blank"}     
@@ -259,6 +264,9 @@ Cad. saúde colet. vol.26 no.2 Rio de Janeiro abr./jun. 2018 http://dx.doi.org/1
 England; (2) Increase capacity for data linkage and sharing by public organisations; (3) Streamline procedures to enable appropriate and efficient access to routine health data for research; (4) Improve transparency and communication around routine health data access and use between data provider organisations and researchers; (5) Provide better support for researchers working with routine health data - See page 18 for the detailed policy recommendations. [Linking and sharing routine health data for research in England, PHG Foundation (2017); ISBN 978-1-907198-27-4](https://www.phgfoundation.org/documents/PHGF-linking-and-sharing-routine-health-data-for-research-in-england.pdf){target="_blank"}    
 
 - **Challenges in administrative data linkage for research.** We aim to increase understanding of the implications of (i) the data linkage environment and privacy preservation; (ii) the linkage process itself (including data preparation, and deterministic and probabilistic linkage methods) and (iii) linkage quality and potential bias in linked data. [Katie Harron, Chris Dibben, James Boyd, Anders Hjern, Mahmoud Azimaee, Mauricio L Barreto, Harvey Goldstein; Big Data & Society; July–December 2017: 1–12](https://journals.sagepub.com/doi/pdf/10.1177/2053951717745678){target="_blank"}     
+
+
+- **A decade of data linkage in Western Australia: strategic design, applications and benefits of the WA data linkage system** [Aust Health Rev 2008: 32(4): 766–777](http://www.publish.csiro.au/ah/pdf/AH080766){target="_blank"}     
 
 
 - **History of the Rochester Epidemiology Project: Half a Century of Medical Records Linkage in a US Population** [Rocca, W. A., Yawn, B. P., St. Sauver, J. L., Grossardt, B. R., & Melton, L. J. (2012). Mayo Clinic Proceedings, 87(12), 1202–1213. doi:10.1016/j.mayocp.2012.08.012](https://sci-hub.tw/10.1016/j.mayocp.2012.08.012){target="_blank"}      
@@ -281,4 +289,10 @@ England; (2) Increase capacity for data linkage and sharing by public organisati
 
 - **O SUS, o DATASUS e a informação em saúde: uma proposta de gestão participativa.** [Lygia Helena Valle da Costa Ferraz](https://bvssp.icict.fiocruz.br/pdf/25885_ferrazlhvcm.pdf){target="_blank"}     
 
+- **Studies in Health Technology and Informatics.** Série de artigos sobre informática e saúde. [Volume 216](http://ebooks.iospress.nl/publication/40579){target="_blank"}     
 
+
+- **Administrative Database Studies: Goldmine or Goose Chase?** Administrative data provide researchers with relatively inexpensive access to large numbers of patients nationwide and are increasingly being used for epidemiological, effectiveness, and safety outcomes studies. Publically available databases from sources such as the NIS and CMS provide information on large proportions of medical visits in the United States, and provide a good source of “real-world” health care data for reliably reported data. However, because administrative data are primarily gathered for billing purposes rather than research purposes, there are several limitations that must be considered, including the potential for inaccuracy and bias. As for all study types, critical appraisal of administrative database studies are critical to avoid arriving at inaccurate conclusions. [Evid Based Spine Care J. 2014 Oct; 5(2): 74–76. doi: 10.1055/s-0034-1390027](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4174180/pdf/10-1055-s-0034-1390027.pdf){target="_blank"}     
+
+
+- **A Spark-based workflow for probabilistic record linkage of healthcare data.** Description of the making of the 100 million cohort dataset [Workshop Proceedings of the EDBT/ICDT 2015 Joint Conference (March 27, 2015, Brussels, Belgium) on CEURWS.org (ISSN 1613-0073)](http://ceur-ws.org/Vol-1330/paper-04.pdf){target="_blank"}      
