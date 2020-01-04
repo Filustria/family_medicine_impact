@@ -296,3 +296,10 @@ England; (2) Increase capacity for data linkage and sharing by public organisati
 
 
 - **A Spark-based workflow for probabilistic record linkage of healthcare data.** Description of the making of the 100 million cohort dataset [Workshop Proceedings of the EDBT/ICDT 2015 Joint Conference (March 27, 2015, Brussels, Belgium) on CEURWS.org (ISSN 1613-0073)](http://ceur-ws.org/Vol-1330/paper-04.pdf){target="_blank"}      
+
+
+- **Why Doctors Hate Their Computers?** Digitization promises to make medical care easier and more efficient. But are screens coming between doctors and patients? [Annals of Medicine - November 12, 2018 Issue, by Atul Gawande](https://www.newyorker.com/magazine/2018/11/12/why-doctors-hate-their-computers){target="_blank"}      
+
+
+- **A response to Why Doctors Hate Their Computers** [By Geoff Caplea, M.D., MBA 11/14/2018](https://www.allscripts.com/2018/11/a-response-to-why-doctors-hate-their-computers/){target="_blank"}      
+
