@@ -134,6 +134,12 @@ it was found that most indicators belonged to the “Quality/Safety” group of 
 
 
 
+## Health systems evaluation {-}
+
+- **The Quality of Care. How Can It Be Assessed?** Avedis Donabedian, MD, MPH, (1988).  [JAMA, 260(12), 1743. doi:10.1001/jama.1988.03410120089033](https://sci-hub.tw/10.1001/jama.1988.03410120089033){target="_blank"}    
+
+
+
 ## SUS {-}   
 
 - **The Brazilian health system at crossroads: progress, crisis and resilience.** From 2000 to 2014, total health expenditure rose from 7.0% to 8.3% of gross domestic product and population coverage with the Family Health Strategy rose from 7.6% to 58.2%. [Adriano Massuda, Thomas Hone, Fernando Antonio Gomes Leles, Marcia C de Castro, Rifat Atun; BMJ Glob Health 2018;3:e000829. doi:10.1136/bmjgh-2018-000829](https://journals.plos.org/plosmedicine/article/file?id=10.1371/journal.pmed.1001692&type=printable){target="_blank"}     
@@ -300,3 +306,16 @@ England; (2) Increase capacity for data linkage and sharing by public organisati
 
 - **Why Doctors Hate Their Computers?** Digitization promises to make medical care easier and more efficient. But are screens coming between doctors and patients? [Annals of Medicine - November 12, 2018 Issue, by Atul Gawande](https://www.newyorker.com/magazine/2018/11/12/why-doctors-hate-their-computers){target="_blank"}      
 
+
+- **Utilização do e-SUS AB e fatores associados ao registro de procedimentos e consultas da atenção básica nos municípios brasileiros.** [Thum, Moara Ailane; Baldisserotto, Julio; Celeste, Roger Keller; Cadernos de Saúde Pública (2019)](http://www.scielo.br/pdf/csp/v35n2/1678-4464-csp-35-02-e00029418.pdf){target="_blank"}      
+
+
+- **Primary care research network progress in Scotland.** [Frank Sullivan, Alison Hinds, Marie Pitkethly, Shaun Treweek, Philip Wilson & Sally Wyke](https://www.tandfonline.com/doi/pdf/10.3109/13814788.2013.879116?needAccess=true){target="_blank"}      
+
+
+- **Towards an institute for patient-led research** [Trish Greenhalgh](https://blogs.bmj.com/bmj/2019/11/12/trisha-greenhalgh-towards-an-institute-for-patient-led-research/){target="_blank"}      
+
+
+*
+*
+*
