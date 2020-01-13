@@ -530,7 +530,7 @@ England; (2) Increase capacity for data linkage and sharing by public organisati
 
 <!--chapter:end:05-quick_references.Rmd-->
 
-# Journals
+# Journals {-}   
 
 
 ## Brazil {-}   
@@ -543,6 +543,7 @@ England; (2) Increase capacity for data linkage and sharing by public organisati
 
 ## Gringos {-}   
 
+- **Canadian Family Physician (CFP)** [a peer-reviewed medical journal. It is the official publication of the College of Family Physicians of Canada.](https://www.cfp.ca/content/authors-reviewers){target="_blank"}      
 
 - **Annals of Family Medicine** [Information for Authors](http://www.annfammed.org/){target="_blank"}      
 

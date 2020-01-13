@@ -1,4 +1,4 @@
-# Journals
+# Journals {-}   
 
 
 ## Brazil {-}   
@@ -11,5 +11,6 @@
 
 ## Gringos {-}   
 
+- **Canadian Family Physician (CFP)** [a peer-reviewed medical journal. It is the official publication of the College of Family Physicians of Canada.](https://www.cfp.ca/content/authors-reviewers){target="_blank"}      
 
 - **Annals of Family Medicine** [Information for Authors](http://www.annfammed.org/){target="_blank"}      
