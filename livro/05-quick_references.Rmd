@@ -243,7 +243,17 @@ Cad. saúde colet. vol.26 no.2 Rio de Janeiro abr./jun. 2018 http://dx.doi.org/1
 - **Accountability for clinical governance: developing collective responsibility for quality in primary care.** Clinical governance in primary care is aimed at enhancing the collective responsibility and accountability of professionals in primary care groups or trusts. [Pauline Allen; BMJ 2000;321:608–11](https://www.who.int/management/partnerships/accountability/ClinicalGovernancePHCAccountability.pdf){target="_blank"}    
 
 
-## Quality Improvement initiatives {-}   
+- **Is Management Essential to Improving the Performance and Sustainability of Health Care Systems and Organizations? A Systematic Review and a Roadmap for Future Studies Review of Literature.** Performance of health care systems and organizations seems to be correlated with management practices, leadership, manager characteristics, and cultural attributes that are associated with managerial values and approaches. [VALUE IN HEALTH 16 (2013) S46–S51](https://www.valueinhealthjournal.com/article/S1098-3015(12)04155-1/pdf){target="_blank"}     
+ 
+
+## Quality Improvement initiatives {-}  
+
+
+- **Quality and Outcomes Framework: what have we learnt?** [BMJ 2016;354:i4060 doi: 10.1136/bmj.i4060](https://www.bmj.com/content/bmj/354/bmj.i4060.full.pdf){target="_blank"}     
+
+- **Definition, structure, content, use and impacts of electronic health records: a review of the research literature.** The aspects of information quality most often explored in the studies reviewed were the completeness and accuracy of different data components. It has been shown in several studies that the use of an information system was conducive to more complete and accurate documentation by health care professionals. The quality of information is particularly important in patient care, but EHRs also provide important information for secondary purposes, such as health policy planning. [Int J Med Inform. 2008 May;77(5):291-304. Epub 2007 Oct 22](https://sci-hub.tw/10.1016/j.ijmedinf.2007.09.001){target="_blank"}     
+
+- **Do electronic medical records improve quality of care?** [Manca, Donna P & Greiver, Michelle](Canadian Family Physician • Le Médecin de famille canadien | Vol 61: october • octobre 2015){target="_blank"}    
 
 
 - **Developing Quality and Outcomes Framework (QOF) indicators and the concept of 'QOFability'** [Lester, H. Campbell, Stephen, Quality in Primary Care](http://primarycare.imedpub.com/developing-quality-and-outcomes-framework-qof-indicators-and-the-concept-of-qofability.php?aid=902){target="_blank"}    
@@ -259,8 +269,8 @@ Cad. saúde colet. vol.26 no.2 Rio de Janeiro abr./jun. 2018 http://dx.doi.org/1
 
 - **Data Resource Profile: National electronic medical record data from the Canadian Primary Care Sentinel Surveillance Network (CPCSSN)** [International Journal of Epidemiology, 2017, 1091–1092f, doi: 10.1093/ije/dyw248](https://sci-hub.tw/10.1093/ije/dyw248){target="_blank"}    
 
-- **Participatory governance over research in an academic research network: the case of Diabetes Action Canada** [Willison DJ, et al. BMJ Open 2019;9:e026828. doi:10.1136/bmjopen-2018-026828](https://bmjopen.bmj.com/content/bmjopen/9/4/e026828.full.pdf)
-{target="_blank"}    
+
+- **Participatory governance over research in an academic research network: the case of Diabetes Action Canada** [Willison DJ, et al. BMJ Open 2019;9:e026828. doi:10.1136/bmjopen-2018-026828](https://bmjopen.bmj.com/content/bmjopen/9/4/e026828.full.pdf){target="_blank"}    
 
 
 - **The World Health Report 2013: Research for Universal Health Coverage** [Christopher Dye, Ties Boerma, David Evans, Anthony Harries, Christian Lienhardt, Joanne McManus, Tikki Pang, Robert Terry, Rony Zachariah](https://www.researchgate.net/publication/259864310_The_World_Health_Report_2013_research_for_universal_health_coverage_World_Health_Organization_contributor_2013_ISBN_9789241564595_Available_from_httpappswhointirisbitstream106658576129789240690837_eng){target="_blank"}    
@@ -317,6 +327,7 @@ England; (2) Increase capacity for data linkage and sharing by public organisati
 
 
 - **O SUS, o DATASUS e a informação em saúde: uma proposta de gestão participativa.** [Lygia Helena Valle da Costa Ferraz](https://bvssp.icict.fiocruz.br/pdf/25885_ferrazlhvcm.pdf){target="_blank"}     
+
 
 - **Studies in Health Technology and Informatics.** Série de artigos sobre informática e saúde. [Volume 216](http://ebooks.iospress.nl/publication/40579){target="_blank"}     
 
