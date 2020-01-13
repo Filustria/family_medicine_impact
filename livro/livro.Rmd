@@ -176,6 +176,12 @@ The Rio de Janeiro practice-based research neetwork (RioPBRN) is the novice rese
 - **Patient experience with self-styled family practices and conventional primary care in Thailand** The self-styled family practices have advantages in all domains of responsiveness when compared to public hospital OPDs. Attention was perceived to be more prompt in private clinics and private hospitals, but for the other domains, self-styled family practices provided greater patient satisfaction. Self-styled family practices and public hospitals were felt to be trusted more than private clinics and hospitals. [Asia Pacific Journal of Family Medicine, 5 (1), Yongyuth PONGSUPAP and Wim VAN LERBERGHE](http://www.apfmj-archive.com/afm5_1/afm27.pdf){target="_blank"}     
 
 
+## Social accountability {-}   
+
+- **Practising social accountability. From theory to action.** [Sandy Buchman, Robert Woollard, Ryan Meili and Ritika Goel](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4721832/pdf/0620015.pdf){target="_blank"}     
+
+- **Social accountability: at the heart of family medicine** [Ryan Meili & Sandy Buchman; Canadian Family Physician; Vol 59: april 2013](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3625068/pdf/0590335.pdf){target="_blank"}     
+
 
 
 ## Evidences about PHC in Brazil {-}   
@@ -261,14 +267,18 @@ followed by family medicine residents (80.75) and general doctors (76.29). [Dari
 
 ## Training Family Medicine {-}   
 
-- **A formação em medicina de família no Brasil: a necessidade de caminhos convergentes.** [Armando Henrique Norman, 2014](https://www.rbmfc.org.br/rbmfc/article/view/875){target="_blank"}    
 
+- **A formação em medicina de família no Brasil: a necessidade de caminhos convergentes.** [Armando Henrique Norman, 2014](https://www.rbmfc.org.br/rbmfc/article/view/875){target="_blank"}    
 
 
 - **Quality Indicators for Primary Health Care.** Regarding raw data, lack of standardization of collection tools between projects could lead to invalid comparisons. In areas that international projects operate in parallel to national initiatives, there may be problems regarding expenses and burden of data collection, which might create competing interests and low quality of information. Regarding the domains of the indicators selected,
 it was found that most indicators belonged to the “Quality/Safety” group of domains (13.85%), followed by the indicator sets of “Access/Facilities/Care Redesign” (9.89%) and “Comprehensiveness or Comprehensive care or Equipment for Comprehensive care”
 (5.76%) [Simou, E., Pliatsika, P., Koutsogeorgou, E., & Roumeliotou, A. (2015). Journal of Public Health Management and Practice, 21(5), E8–E16. doi:10.1097/phh.0000000000000037](https://sci-hub.tw/10.1097/phh.0000000000000037){target="_blank"}    
 
+- **A Collaborative Approach to Combining Service, Teaching, and Research** [American Journal of Pharmaceutical Education 2014; 78 (3) Article 58.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3996390/pdf/ajpe78358.pdf){target="_blank"}    
+
+
+- **Integração ensino, pesquisa e serviços em saúde: antecedentes, estratégias e iniciativas** [Saude soc. vol.22 no.1 São Paulo Jan./Mar. 2013](http://www.scielo.br/pdf/sausoc/v22n1/17.pdf){target="_blank"}    
 
 
 ## Family Medicine and Public Health {-}   
@@ -428,6 +438,12 @@ Cad. saúde colet. vol.26 no.2 Rio de Janeiro abr./jun. 2018 http://dx.doi.org/1
 - **Integração Ensino, Pesquisa e Serviços em Saúde: antecedentes, estratégias e iniciativas** [Saúde Soc. São Paulo, v.22, n.1, p.187-198, 2013](http://www.scielo.br/pdf/sausoc/v22n1/17.pdf){target="_blank"}    
 
 
+- **Developing Primary Care: The Contribution of Primary Care Research Networks** [Stephen Peckham and Brian Hutchison](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3517873/){target="_blank"}    
+
+
+- **Research networks in primary care: An answer to the call for better clinical research**  [Guri Rørtveit (2014), Scandinavian Journal of Primary Health Care, 32:3, 107-109, DOI: 10.3109/02813432.2014.943981](https://www.tandfonline.com/doi/pdf/10.3109/02813432.2014.943981?needAccess=true){target="_blank"}    
+
+
 ## DATABASES {-}  
 
 
@@ -498,6 +514,15 @@ England; (2) Increase capacity for data linkage and sharing by public organisati
 - **Diffusion of the e-SUS Primary Care innovation in Family Health Teams.** [Silva TIM, Cavalcante RB, Santos RC, Gontijo TL Guimarães EAA, Oliveira VC. Rev Bras Enferm. (2018);71(6):2945-52.](http://www.scielo.br/pdf/reben/v71n6/0034-7167-reben-71-06-2945.pdf){target="_blank"}      
 
 
+- **Making electronic health records support quality management: A narrative review** [Triantafillou, P. (2017). International Journal of Medical Informatics, 104, 105–119. doi:10.1016/j.ijmedinf.2017.03.003](https://sci-hub.tw/10.1016/j.ijmedinf.2017.03.003){target="_blank"}      
+
+
+- **Primary Care Physicians' Perspectives on the Ethical Impact of the Electronic Medical Record** [Tania Moerenhout, Gary S. Fischer, Marlies Saelaert, An De Sutter, Veerle Provoost and Ignaas Devisch; The Journal of the American Board of Family Medicine January 2020, 33 (1) 106-117; DOI: https://doi.org/10.3122/jabfm.2020.01.190154](https://www.jabfm.org/content/33/1/106.long){target="_blank"}      
+
+
+- **Bridging the gap between software developers and healthcare professionals** [HITE ❙ Vol 3 No 2 ❙ SUMMER 2010](https://www.researchgate.net/profile/William_Goossen2/publication/235672805_Bridging_the_gap_between_software_developers_and_healthcare_professionals_Model_Driven_Application_Development/links/551dc2690cf29dcabb033004.pdf){target="_blank"}      
+
+- **Adoption and non-adoption of a shared electronic summary record in England: a mixed-method case study** [Trisha Greenhalgh, Katja Stramer, Tanja Bratan, Emma Byrne, Jill Russell, Henry W W Potts](https://www.bmj.com/content/bmj/340/bmj.c3111.full.pdf){target="_blank"}      
 
 *
 *
@@ -505,9 +530,27 @@ England; (2) Increase capacity for data linkage and sharing by public organisati
 
 <!--chapter:end:05-quick_references.Rmd-->
 
+# Journals
+
+
+## Brazil {-}   
+
+- **Cadernos de Saúde Pública** [instrução para autores](http://cadernos.ensp.fiocruz.br/csp/submissao/instrucao-para-autores){target="_blank"}     
+
+
+- **Revista de Saúde Pública** [instrução para autores](http://www.rsp.fsp.usp.br/instrucoes-aos-autores/#artigos-originais){target="_blank"}      
+
+
+## Gringos {-}   
+
+
+- **Annals of Family Medicine** [Information for Authors](http://www.annfammed.org/){target="_blank"}      
+
+<!--chapter:end:06-journals.Rmd-->
+
 `r if (knitr::is_html_output()) '
 # References {-}
 '`
 
-<!--chapter:end:06-references.Rmd-->
+<!--chapter:end:07-references.Rmd-->
 
